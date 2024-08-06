@@ -1,7 +1,7 @@
 ## Hi there, I'm Thescattypotty👋
 ### Or just call me Sênshî 
 
-![Profile views](https://bennis-yahya.vercel.app/)
+![Profile views](https://gpvc.arturio.dev/Thescattypotty)
 
 Welcome to my GitHub! I'm a passionate Backend Developer who loves creating robust and scalable systems. Here's a bit about me and my work.
 
