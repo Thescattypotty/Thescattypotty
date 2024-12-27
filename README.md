@@ -22,29 +22,24 @@ Welcome to my GitHub! I'm a passionate Backend Developer who loves creating robu
 |---|---|---|---|
 
 ### 🔙 Back-end
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white) |
-|---|---|---|---|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff) |
+|---|---|
 
-|![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white) | ![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
-|---|---|---|---|
+
 
 ### 🗄️ Databases
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white) |
 |---|---|---|---|
 
 ### ⚙️ DevOps & Tools
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) |
-|---|---|---|---|
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) |
+|---|---|---|
 
 ### 🔧 Others
-| ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff) | ![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06) | ![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) |
+
+| ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff) | ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff) | ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) |
 |---|---|---|---|
 
-| ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff) | ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white) | ![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff) | ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff) |
-|---|---|---|---|
-
-| ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff) | ![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff) | ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white) |
-|---|---|---|---|
 
 | ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-FF5722?logo=duckduckgo&logoColor=white) |
 |---|
@@ -53,7 +48,7 @@ Welcome to my GitHub! I'm a passionate Backend Developer who loves creating robu
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahya-bennis-3a2ba425b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bennis-yahya)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bennis-yahya@outlook.com)
 
 ---
@@ -68,4 +63,3 @@ Thanks for stopping by! Feel free to check out my repositories and connect with 
 
 ---
 
-## 🗂️ Explore my Projects
