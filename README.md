@@ -16,11 +16,14 @@ Welcome to my GitHub! I'm a passionate Backend Developer who loves creating robu
 
 ## 🛠️ Technologies & Tools
 
+### 💻 Preferred Languages
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white) | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+|---|---|---|---|
+
 ### 🌐 Full-Stack
 
 | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff) | ![Ruby on Rails](https://img.shields.io/badge/Ruby%20On%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=fff) |
 |---|---|---|---|
-
 
 
 ### 🗄️ Databases
@@ -30,15 +33,6 @@ Welcome to my GitHub! I'm a passionate Backend Developer who loves creating robu
 ### ⚙️ DevOps & Tools
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) |
 |---|---|---|
-
-### 🔧 Others
-
-| ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff) | ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff) | ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) |
-|---|---|---|---|
-
-
-| ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-FF5722?logo=duckduckgo&logoColor=white) |
-|---|
 
 ---
 
