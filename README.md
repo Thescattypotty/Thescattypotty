@@ -22,7 +22,8 @@ Welcome to my GitHub! I'm a passionate Backend Developer who loves creating robu
 
 ### 🌐 Full-Stack
 
-| ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff) | ![Ruby on Rails](https://img.shields.io/badge/Ruby%20On%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=fff) |
+| ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
+ | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Ruby on Rails](https://img.shields.io/badge/Ruby%20On%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=fff) |
 |---|---|---|---|
 
 
