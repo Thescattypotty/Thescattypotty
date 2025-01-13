@@ -16,14 +16,10 @@ Welcome to my GitHub! I'm a passionate Backend Developer who loves creating robu
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Front-end
+### 🌐 Full-Stack
 
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) | ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) | ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) |
+| ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff) | ![Ruby on Rails](https://img.shields.io/badge/Ruby%20On%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=fff) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) |
 |---|---|---|---|
-
-### 🔙 Back-end
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff) |
-|---|---|
 
 
 
