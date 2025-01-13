@@ -1,5 +1,5 @@
 # Hi there, I'm Thescattypotty 👋
-### Or just call me Sênshî 
+### Or just call me Sênshî 🐬
 
 Welcome to my GitHub! I'm a passionate Backend Developer who loves creating robust and scalable systems. Here's a bit about me and my work.
 
@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate Backend Developer who loves creating robu
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various backend projects that involve APIs, databases, and microservices.
+- 🔭 I’m currently working on various backend projects & non-serious projects.
 - 🌱 I’m always learning new technologies and improving my skills.
 - 💬 Ask me about anything related to backend development, APIs, and databases.
 - ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
@@ -45,11 +45,11 @@ Welcome to my GitHub! I'm a passionate Backend Developer who loves creating robu
 
 ## 🌐 Website
 
-Check out my personal website: [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://bennis-yahya.vercel.app/)
+Check out my personal website:  [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://bennis-yahya.vercel.app/)
 
 ---
 
-Thanks for stopping by! Feel free to check out my repositories and connect with me. Let's build something amazing together!
+Thanks for stopping by! 😁
 
 ---
 
