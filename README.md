@@ -2,14 +2,5 @@
 
 Welcome to my GitHub!
 
----
-
-## 🚀 About Me
-
-- No one cares
-
-
-Thanks for stopping by! 😁
-
----
+## 🚀 About Me (No one cares)
 
